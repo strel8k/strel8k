@@ -1,8 +1,8 @@
 ### About me
-ᛋᛏᚱᛖᛚ8k
-14 y.o.
-Junior java developer
-Junior android developer
+ᛋᛏᚱᛖᛚ8k<br>
+14 y.o.<br>
+Junior java developer<br>
+Junior android developer<br>
 
 ### Language and tools
 ![Android Studio](https://img.shields.io/badge/-Android%20Studio-090909?style=for-the-badge&logo=Android%20studio)
