@@ -1,5 +1,4 @@
 ### About me
-ᛋᛏᚱᛖᛚ8k<br>
 14 y.o.<br>
 Junior java developer<br>
 Junior android developer<br>
