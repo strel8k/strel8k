@@ -1,7 +1,7 @@
 ![Header](Header.png)
 
 ### About me
-14 y.o.<br>
+15 y.o.<br>
 Junior java developer<br>
 
 ### Language and tools
